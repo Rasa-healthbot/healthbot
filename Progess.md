@@ -19,7 +19,7 @@
   
   Discussed about completion of FORMS from RASA Documentation.
   It was decided, that forms be completed by 25/06/21 along with its documentation on GitHub.
-  Half documentation completed till now by Pragya, rest to be completed by Manya and Akansha by tom on which they have already been working for 2 days.
+  Half documentation completed till now by Pragya, rest to be completed by Manya and Akansha by tommorrow on which they have already been working for 2 days.
   Coding to be started by Saturday.
   
   
@@ -31,9 +31,8 @@
   
   Discussed about Forms,which yet needs to be documented completely.
   Discussed aboout Notion, a to do website also used for notes and coding. 
-  Reet shared her Python Notion notes which we decided to ass to our GitHub description for Health Chatbot.
+  Reet shared her Python Notion notes .
   Akansha shared Amazon WoW link whose last date for registration is today.
-  Coding can be started on individual level was decided and DSM ended at 3:58pm
   Was a pretty interactive session as we discussed about our Hobbies, pets and few lockdown experiences, along with our usual Project and C documentation!
   
   
@@ -62,7 +61,7 @@
   Thursday
   Meet time 
   **Available members: Reet, Akanksha, Manya (Pragya was not well)**
-  Today we decided to code along to video to properly check if our code is working fine or not. We also planned to document actions and domain. Since actions and forms uses some part of python, it was a trouble to understand it at first. We have planned to do this within 2 days.
+  Today we decided to code along with the video to properly check if our code is working fine or not. We also planned to document actions and domain. Since actions and forms uses some part of python, it was a trouble to understand it at first. We have planned to do this within 2 days.
   
   
   
@@ -176,7 +175,7 @@
   Available members: Ankit, Pragya, Akansha, Akriti
   
   Ankit had earlier introduced Akriti to the team.
-  Akriti gave DBSM into to Pragya and Akansha!
+  
   Manya got all the info about it later by discussing it with the team on chat.
   
   
@@ -184,17 +183,17 @@
   **Sunday**
   Available members: Pragya, Ankit, Akriti
   
-  First DBSM session.
+  First DBMS session.
   Akriti explained it to Pragya.
   Akansha and Manya discussed with Akriti to have a breif session sometime later.
-  Akriti to provide material to remaining team who missed the impt session.
+  Akriti to provide material to remaining team who missed the important session.
   
   
   **26/7/21**
   **Monday**
   Available members: Manya, Pragya
  
-  Manya had encountered trouble using command prompt in windows while training the Bot so she started working on Command line   on Ubantu. It was decided that Manya completes Twilio and NGrok part, whereas Pragya completes Pipeline and policies, and do their respective documentations ASAP with all the error they encounter in the process for easier and faster understanding of other team members!
+  Manya had encountered trouble using command prompt in windows while training the Bot so she started working on Command line on Ubuntu. It was decided that Manya completes Twilio and NGrok part, whereas Pragya completes Pipeline and policies, and do their respective documentations ASAP with all the error they encounter in the process for easier and faster understanding of other team members!
   
   **27/7/21**
   **Tuesday**
@@ -203,9 +202,9 @@
   Pragya was unwell, so we discussed the progress on text.
   Manya had tried implementing the Twilio part by watching Udemy videos and by going through Rasa documentations.
   On trying hands on Twilio part of the Project, the team started encountering issues because most guide videos available for reference had old display of Twilio.
-  Manya was not able to find the Twilio web pg with links that have to be used to connect the bot using NGrok.
-  Moreover there were issues with the commands to install and implement NGrok on the computer. According to some videos tgere were different processes to install Ngrok in Linux   and ubantu, Manya had figured out how to install it in Linux, since Pragya and Akansha had projects in Windows, Manya was left to try installing NGrok on windows as well!
-  It was decided Pragya would try to fig out the errors which Manya was facing to find Twilio links as soon as she start   feeling better.
+  Manya was not able to find the Twilio webpage with links that have to be used to connect the bot using NGrok.
+  Moreover there were issues with the commands to install and implement NGrok on the computer. According to some videos tgere were different processes to install Ngrok in Linux   and ubuntu, Manya had figured out how to install it in Linux, since Pragya and Akansha had projects in Windows, Manya was left to try installing NGrok on windows as well!
+  It was decided Pragya would try to figure out the errors which Manya was facing to find Twilio links.
   
   Manya had been training her bot locally, the Bot worked perfectly fine except for storing values which the team still had to fig out!
   Pragya suggested to try implementing Local host, API, and environment variables for the bot to store values!
@@ -233,7 +232,7 @@
  Members: Manya, Pragya 
  time: 9:30pm
  
- Pragya installed NGrok, created an account on it, and tried completing the sign up and account set up for Twilio, sge had some errors about Twilio sign up which they figured out in DSM.
+ Pragya installed NGrok, created an account on it, and tried completing the sign up and account set up for Twilio, she had some errors about Twilio sign up which we figured out in DSM.
  
  Pragya provided Manya with following link for better understanding of documentation techniques 
  https://guides.github.com/features/mastering-markdown/
@@ -255,7 +254,7 @@
   
   part1: Pragya, Manya, Akansha and Reet(Project ideas and basic discussions)
   
-  part2: Pragya, Manya, Akansha, Akriti(DBSM)
+  part2: Pragya, Manya, Akansha, Akriti(DBMS)
   
   part3: Pragya, Manya, Akansha, Jennifer (deployment and research paper)
   
@@ -287,7 +286,7 @@
   
   **9/8/21**
   Members: Akansha, Pragya, Manya   
-  Pragya encountered issues with python, not being recogniesd. Akansha's Laptop is troubling.
+  Pragya encountered issues with python, not being recogniesd. Akansha's Laptop is not working.
   
   **10/8/21**  
   Members: Akansha, Pragya, Manya  
