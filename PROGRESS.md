@@ -7,3 +7,7 @@
 - After learning the concepts , our next step is to decide which chatbot we shall build. We made a google docs and wrote our ideas . Some of the ideas were building a weatherbot , building a chatbot that can suggest some good courses or resources to learn some new technology, building a healthbot that can simply record our daily progress etc.
 - We started reading about rasa framework and its components and started researching on our ideas to decide which chatbot shall we build with complete guidance.
  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   ## Week  2 :
+   - We researched about our ideas and as this technology is completely new to us  , so we decide to move forward with a guided project.
