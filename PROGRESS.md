@@ -10,4 +10,4 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    ## Week  2 :
-   - We researched about our ideas and as this technology is completely new to us  , so we decide to move forward with a guided project.
+   - We researched about our ideas and as this technology is completely new to us  , so we decided to move forward with a guided project . We decided to build a chatbot that can maintain a user's health records on a daily basis . We started watching the tutorials of the course  and got to know that 
