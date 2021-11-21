@@ -13,8 +13,8 @@
    - We continued to gather ideas which included a bot that could suggest courses, a bot thatcould provide information about vaccination and locate its centers. We also continued to research  about  this technology as this was completely new to us, so we decided to move forward with a guided project . We Chose a weathterbot to start with.
    -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahed.
    -  We again looked for another suitable resource and with the help of Rasa's udemy videos and documentation for newer version, wedecided to build a chatbot that can maintain a user's health records on a daily basis .
-   -  We started to get some basic information about rasa through the usemy course and also started to refer documentations by Rasa.
-   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation on_____.
+   -  We started to get some basic information about rasa through the udemy course and also started to refer documentations by Rasa.
+   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation on.
 
 
 ------------------------------------------------
