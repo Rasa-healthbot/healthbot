@@ -14,7 +14,7 @@
    -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahed.
    -  We again looked for another suitable resource and with the help of Rasa's udemy videos and documentation for newer version, we decided to build a chatbot that can maintain a user's health records on a daily basis .
    -  We started to get some basic information about rasa through the udemy course and also started to refer documentations by Rasa.
-   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation on.
+   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation of rasa .
 
 
 ------------------------------------------------
