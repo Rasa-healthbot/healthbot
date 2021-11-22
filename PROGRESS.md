@@ -23,7 +23,7 @@
 
 - We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
 - We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
-- We made personal progresses till now in terms of learning
+- We made personal progresses till now in terms of learning.
 
 
 -----------------------------
@@ -33,6 +33,8 @@
 - We divided the work of making the basic nlu file domain file, rules file and story file among us.
 - We got adviced to make a progress file and we discussed about it to give it a go.
 - We also decided to document the concepts that in the previous week and accordingly divided the work.
+- We learned the commands and process of running the bot on our systems.
+- We were able to run the simple bot using the nlu, domain, Story and Rules while that we wrote (which did not include the forms part)
 
 ----------------------------------
 
