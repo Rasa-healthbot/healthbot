@@ -14,12 +14,28 @@
    -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahed.
    -  We again looked for another suitable resource and with the help of Rasa's udemy videos and documentation for newer version , we decided to build a chatbot that can maintain a user's health records on a daily basis .
    -  We started to get some basic information about rasa through the udemy course and also started to refer documentation by Rasa.
-   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation of rasa .
+   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation of rasa on google collab .
 
 
 ------------------------------------------------
 
 ## Week 3:
 
-- 
+- We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
+- We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
+- We made personal progresses till now in terms of learning
+
+
+-----------------------------
+
+## Week 4:
+- We made a shared repository and discussed our learnings.
+- We divided the work of making the basic nlu file domain file, rules file and story file among us.
+- We got adviced to make a progress file and we discussed about it to give it a go.
+- We also decided to document the concepts that in the previous week and accordingly divided the work.
+
+----------------------------------
+
+
+
 
