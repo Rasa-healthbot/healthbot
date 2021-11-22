@@ -1,3 +1,5 @@
+   # MONTH 1 :
+   
    ## Week  1:
    
   - All four team members from four different colleges were introduced to each other by Ankit sir. We decided to build a Contextual AI chatbot, using rasa . Rasa is an open source AI Framework,used  for building chat and voice based virtual assistants.
@@ -37,6 +39,8 @@
 - We were able to run the simple bot using the nlu, domain, Story and Rules while that we wrote (which did not include the forms part)
 
 ----------------------------------
+
+# MONTH
 
 
 
