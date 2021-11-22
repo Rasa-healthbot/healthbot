@@ -1,4 +1,4 @@
-# Healthbot 
+#                                                HEALTHBOT
 
 ## By team in [Algomagnet.com](https://algomagnet.com/)
 
