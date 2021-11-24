@@ -50,7 +50,7 @@
 - We created a shared repository with the 4 of us as contributors.
 - We divided the work of documenting the NLU, domain, stories and rules file and related concepts among us.
 - We also started to write our progress file, where we documented the our daily progress and discussion. 
-- We learned the conecpt of virtual environment and setting up environment variables.
+
 - We continued with taking a glance at further videos too.
 - We learned the commands and process of running the bot on our systems while trying to run the simplest form of the bot(without using forms).
 
@@ -68,14 +68,17 @@ syntax errors and other errors which we tried to sort out and we got this websit
 --------------------------------------
 
 ## Week 3 :
+
 - By the time , we were able to run our bot on local systems .
-- We learned about ou
+- We learned the concept of virtual environment and documented it .
+- While we were facing errors with our bot , we learned about environmental variables  and how to set up environmental variables .
+- We were regularly going through the tutorials and documentation for reference as we were facing a lot of errors.
 
 ## Week 4 :
 
 -  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
 -  Some members were able to connect the database while some were facing errors which have been sorted.
 -  We were able to train our model and see the flowchart showing the wroking of our bot.
--  Some members were having their examx this month.
+-  Some members were having their exams this month.
 
 
