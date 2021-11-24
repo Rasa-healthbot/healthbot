@@ -25,6 +25,7 @@
 
 - We faced timing issue for our dsm, as all the members were not available at a particular common time due to temproary changes in their schedules
 - We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
+- We documented the installation commands used in a shared document with us.
 - We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
 
 
@@ -37,11 +38,30 @@
 - We divided the work of making the basic nlu file domain file, rules file and story file among us.
 - We got advised to make a progress file and we discussed about it to give it a go.
 - We also decided to document the concepts that in the previous week and accordingly divided the work.
+- At the end, we had a retrospective meeting for the first month.
 
 ----------------------------------
 
 # MONTH 2
 
+## Week 1: 
+
+- We created a shared repository with the 4 of us as contributors.
+- We divided the work of documenting the NLU, domain, stories and rules file and related concepts among us.
+- We also started to write our progress file, where we documented the our daily progress and discussion. 
+- We continued with taking a glance at further videos too.
+- We learned the commands and process of running the bot on our systems while trying to run the simplest form of the bot(without using forms).
+
+---------------------------------------------------
+
+## Week 2:  
+
+- As we learned about actions file through videos and documentation, we felt the need to know basic of pytthon to understand how to write the actions better. So, we started to learn about python, specially about the related terms in the file.
+- Meanwhile we also tried to run our simple bot(i.e, without forms part) on our systems, and we faces some syntax errors and other errors which we tried to sort out and we got this website, where we could find yaml syntax errors. It made our task easier.
+- One of our team member also faced ssome system troubles, we discussed the problems and sorted it out.
+- We started to document the learnings about forms, rasa commands and the python part of reference.
+
+--------------------------------------
 
 
 
