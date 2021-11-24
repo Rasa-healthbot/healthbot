@@ -73,12 +73,13 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - We learned the concept of virtual environment and documented it .
 - While we were facing errors with our bot , we learned about environmental variables  and how to set up environmental variables .
 - We were regularly going through the tutorials and documentation for reference as we were facing a lot of errors.
+- The team was consistently helping each other out for solving errors faced while training the bot with the help of rasa forum and other resources.
 
 ## Week 4 :
 
 -  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
 -  Some members were able to connect the database while some were facing errors which have been sorted.
--  We were able to train our model and see the flowchart showing the wroking of our bot.
--  Some members were having their exams this month.
+-  We were able to train our model and see the flowchart showing the working of our bot.
+-  Some members were having their exams this month so we took a small break for 4-5 days.
 
 
