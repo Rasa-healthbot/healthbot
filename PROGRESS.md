@@ -46,6 +46,7 @@
 
 ## Week 1: 
 
+- We 
 - We created a shared repository with the 4 of us as contributors.
 - We divided the work of documenting the NLU, domain, stories and rules file and related concepts among us.
 - We also started to write our progress file, where we documented the our daily progress and discussion. 
@@ -57,7 +58,7 @@
 ## Week 2:  
 
 - As we learned about actions file through videos and documentation, we felt the need to know basic of pytthon to understand how to write the actions better. So, we started to learn about python, specially about the related terms in the file.
-- Meanwhile we also tried to run our simple bot(i.e, without forms part) on our systems, and we faces some syntax errors and other errors which we tried to sort out and we got this website, where we could find yaml syntax errors. It made our task easier.
+- Meanwhile we also tried to run our simple bot(i.e, without forms part) on our systems, and we faced some syntax errors and other errors which we tried to sort out and we got this website, where we could find yaml syntax errors. It made our task easier.
 - One of our team member also faced ssome system troubles, we discussed the problems and sorted it out.
 - We started to document the learnings about forms, rasa commands and the python part of reference.
 
