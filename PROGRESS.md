@@ -69,8 +69,12 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 ## Week 3 :
 - By the time , we were able to run our bot on local systems .
-- We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
+- We learned about ou
+
+## Week 4 :
+
+-  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
 - Some members were able to connect the database while some were facing errors which have been sorted.
-- We were able to train our model and see the flowchart showing the wroking of oour bot.
+- We were able to train our model and see the flowchart showing the wroking of our bot.
 
 
