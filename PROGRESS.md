@@ -23,7 +23,7 @@
 
 ## Week 3:
 
-- We faced timing issue for our dsm, as all the members were not available at a particular common time due to temproary changes in their schedules
+- We faced timing issue for our dsm, as all the members were not available at a particular common time due to temproary changes in their schedules .
 - We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
 - We documented the installation commands used in a shared document with us.
 - We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
@@ -50,7 +50,6 @@
 - We created a shared repository with the 4 of us as contributors.
 - We divided the work of documenting the NLU, domain, stories and rules file and related concepts among us.
 - We also started to write our progress file, where we documented the our daily progress and discussion. 
-
 - We continued with taking a glance at further videos too.
 - We learned the commands and process of running the bot on our systems while trying to run the simplest form of the bot(without using forms).
 
