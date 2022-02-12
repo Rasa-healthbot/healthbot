@@ -11,7 +11,7 @@ We all started gathering information about the rasa framework through its docume
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   ## Week  2:
+   ## Scrum  2:
    - We continued to gather ideas which included a bot that could suggest courses, a bot that could provide information about vaccination and locate its centers. We also continued to research  about  this technology as this was completely new to us, so we decided to move forward with a guided project . We chose a weathterbot to start with.
    -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahed.
    -  We again looked for another suitable resource and with the help of Rasa's udemy videos and documentation for newer version , we decided to build a chatbot that can maintain a user's health records on a daily basis .
@@ -21,7 +21,7 @@ We all started gathering information about the rasa framework through its docume
 
 ------------------------------------------------
 
-## Week 3:
+## Scrum  3:
 
 - We faced timing issue for our dsm, as all the members were not available at a particular common time due to temproary changes in their schedules .
 - We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
@@ -32,7 +32,7 @@ We all started gathering information about the rasa framework through its docume
 
 -----------------------------
 
-## Week 4:
+## Scrum  4:
 - We made personal progresses till now in terms of learning.
 - We discussed about making the learning accessible to everyone of us with a shared repository.
 - We divided the work of making the basic nlu file domain file, rules file and story file among us.
@@ -44,7 +44,7 @@ We all started gathering information about the rasa framework through its docume
 
 # MONTH 2
 
-## Week 1: 
+## Scrum  1: 
 
 - One of our member left us and we had a new addition in our team
 - We created a shared repository with the 4 of us as contributors.
@@ -55,7 +55,7 @@ We all started gathering information about the rasa framework through its docume
 
 ---------------------------------------------------
 
-## Week 2:  
+## Scrum  2:  
 
 - As we learned about actions file through videos and documentation, we felt the need to know basic of python to understand 
 how to write the actions better. So, we started to learn about python, specially about the related terms in the file.
@@ -66,7 +66,7 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 --------------------------------------
 
-## Week 3 :
+## Scrum  3 :
 
 - By the time , we were able to run our bot on local systems .
 - We learned the concept of virtual environment and documented it .
@@ -74,7 +74,7 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - We were regularly going through the tutorials and documentation for reference as we were facing a lot of errors.
 - The team was consistently helping each other out for solving errors faced while training the bot with the help of rasa forum and other resources.
 
-## Week 4 :
+## Scrum  4 :
 
 -  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
 -  Some members were able to connect the database while some were facing errors which have been sorted.
